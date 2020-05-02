@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include "../corpus/corpus_io.h"
-#include "../rules/rules.h"
-#include "../tagger/tagger.h"
-#include "../tagger/tags.h"
 #include "accuracy_check.h"
 
 //rules_list_t should include the number of rules since the last rule check,
